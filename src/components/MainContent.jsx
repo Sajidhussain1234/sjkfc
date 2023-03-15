@@ -13,7 +13,7 @@ const MainContent = () => {
         {
             id: 2,
             imgUrl: "https://images.kfcpakistan.com/image/1670409700963-image.jpg",
-            title: "Krunch With Fries N Drink",
+            title: "Krunch, Fries nd Drink",
             description: "Krunch With Fries N Drink Amazing! Krunch + 1 regular Fries + 1 regular Drink",
             price: 470
         },
