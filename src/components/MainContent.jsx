@@ -95,7 +95,7 @@ const MainContent = () => {
                 {/* className="row row-cols-1 row-cols-md-3 g-4" */}
                 {kfcData.map((element) => {
                     return (
-                        <div className='col-md-4' key={element.id}>
+                        <div className='col-md-3' key={element.id}>
                             <CardDesign img={element.imgUrl} title={element.title} description={element.description} price={element.price} />
                         </div>
                     )
