@@ -91,7 +91,7 @@ const MainContent = () => {
     return (
         <div>            
             <h2 className='text-center text-white'> <u>Available products are: </u></h2>
-            <div className='row row-cols-1 row-cols-md-4 g-4'>
+            <div className='row row-cols-1 row-cols-md-3 g-4'>
                 {/* className="row row-cols-1 row-cols-md-3 g-4" */}
                 {kfcData.map((element) => {
                     return (
